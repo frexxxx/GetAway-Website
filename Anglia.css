@@ -1,3 +1,8 @@
+.container {
+     max-width: 800px;
+    width: 100%;}
+
+
 .img1 {
     width: 300px;
     margin-right: 400px;
